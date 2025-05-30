@@ -1,2 +1,5 @@
-# division-politica-db
-Entrega 3 Tecnicas de Programacion y Laboratorio
+Presentado por:
+
+Max Daniel Pérez Quintero
+
+Samuel Velásquez Berrio
